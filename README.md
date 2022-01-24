@@ -33,5 +33,5 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ### Ejemplo👇
 
-<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png"  height="644" width="553" ></a>
+<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png"  height="600" width="462" ></a>
 

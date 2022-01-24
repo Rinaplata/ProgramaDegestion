@@ -36,3 +36,7 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 <a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png"  height="350" width="350" ></a>
 
 * **INSERT INTO** se utiliza para insertar nuevos registros en una tabla.
+
+### Ejemplo👇
+
+<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/INSERT%20INTO.png?raw=true"  height="350" width="350" ></a>

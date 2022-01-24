@@ -39,4 +39,4 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ### Ejemplo👇
 
-<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/INSERT%20INTO.png?raw=true"  height="300" width="1300" ></a>
+<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/INSERT%20INTO.png?raw=true"  height="100" width="1000" ></a>

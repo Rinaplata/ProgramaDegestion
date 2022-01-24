@@ -11,5 +11,5 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
   https://docs.microsoft.com/es-es/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 - Guardar todo en una misma carpeta de SQL.
 
-
-
+### Empecemos a construir la base de datos 🛠️
+# Datos generales 

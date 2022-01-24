@@ -27,11 +27,11 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ![texto_alternativo](https://github.com/Rinaplata/ProgramaDegestion/blob/main/ModeloEntidadRelacion.jpg?raw=true)
 
-### Creacion de las tabla con SQL.
+## Creacion de las tabla con SQL.
 
 * **CREATE TABLE** Se utiliza para crear una nueva tabla en una base de datos.
 
-## Ejemplo👇
+### Ejemplo👇
 
-![texto_alternativo](https://carbon.now.sh/?bg=rgba%28255%2C255%2C255%2C1%29&t=material&wt=none&l=sql&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=CREATE%2520TABLE%2520EMPLEADO%250A%28%250AID_EMPLEADO%2520NUMERIC%2810%29%2520NOT%2520NULL%252C%2520%250AID_CARGO%2520NUMERIC%2810%29%2520NOT%2520NULL%252C%250ANOMBRE%2520NVARCHAR%2830%29%2520NOT%2520NULL%252C%250ACEDULA%2520NVARCHAR%2810%29%2520NOT%2520NULL%252C%250ATELEFONO%2520NUMERIC%2810%29%2520NOT%2520NULL%252C%250ACORREO%2520NVARCHAR%2830%29%2520NOT%2520NULL%252C%250A%250APRIMARY%2520KEY%28ID_EMPLEADO%29%250A%29)
+![texto_alternativo](https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png)
 

@@ -25,5 +25,5 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ### Modelo Entidad Relacion.
 
-![texto_alternativo]()
+![texto_alternativo](https://github.com/Rinaplata/ProgramaDegestion/blob/main/ModeloEntidadRelacion.jpg?raw=true)
 

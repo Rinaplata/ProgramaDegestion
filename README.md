@@ -33,5 +33,7 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ### Ejemplo👇
 
-![Ejemplo de como crear una tabla en SQL](https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png(./pic/pic1_50.png =100x20))
+![Ejemplo de como crear una tabla en SQL](https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png)
+
+<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png"  height="48" width="48" ></a>
 

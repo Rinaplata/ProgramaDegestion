@@ -25,7 +25,7 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ### Modelo Entidad Relacion 📄.
 
-![texto_alternativo](https://github.com/Rinaplata/ProgramaDegestion/blob/main/ModeloEntidadRelacion.jpg?raw=true)
+![Modelo entidad Relacion](https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/ModeloEntidadRelacion.jpg)
 
 ## Creacion de las tabla con SQL.
 
@@ -33,5 +33,5 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ### Ejemplo👇
 
-![texto_alternativo](https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png)
+![Ejemplo de como crear una tabla en SQL](https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png(./pic/pic1_50.png =100x20))
 

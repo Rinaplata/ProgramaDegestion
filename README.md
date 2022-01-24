@@ -14,12 +14,12 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 ### Empecemos a construir la base de datos 🛠️
 #### Datos generales 
 
-Empleado: id-empleado, id-cargo, cedula, nombre, correo, teléfono.
-Cargo: id-cargo, nombre, descripción, salario.
-Proyecto: id-proyecto, id-empleado, id-estadoProyecto, descripción, fechaAsignación, fechaInicio y fechaFin.
-Actividad: id-actividad, id-proyecto, id-estadoActividad, nombre, descripción, fechaInicio, fechaFin.
-EstadoActividad: id-estadoActividad, nombre, descripción.
-EstadoProyecto: id-estadoProyecto, id-estadoActividad, nombre, descripción.
-Notificación: id-notificacion, id-empleado, correo, mensaje.
+_Empleado:_ id-empleado, id-cargo, cedula, nombre, correo, teléfono-
+_Cargo:_ id-cargo, nombre, descripción, salario.
+_Proyecto:_ id-proyecto, id-empleado, id-estadoProyecto, descripción, fechaAsignación, fechaInicio y fechaFin.
+_Actividad:_ id-actividad, id-proyecto, id-estadoActividad, nombre, descripción, fechaInicio, fechaFin.
+_EstadoActividad:_ id-estadoActividad, nombre, descripción.
+_EstadoProyecto:_ id-estadoProyecto, id-estadoActividad, nombre, descripción.
+_Notificación:_ id-notificacion, id-empleado, correo, mensaje.
 
 

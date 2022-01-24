@@ -33,5 +33,18 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ### Ejemplo👇
 
+CREATE TABLE EMPLEADO
+(
+ID_EMPLEADO NUMERIC(10) NOT NULL, 
+ID_CARGO NUMERIC(10) NOT NULL,
+NOMBRE NVARCHAR(30) NOT NULL,
+CEDULA NVARCHAR(10) NOT NULL,
+TELEFONO NUMERIC(10) NOT NULL,
+CORREO NVARCHAR(30) NOT NULL,
+
+PRIMARY KEY(ID_EMPLEADO)
+)
+
+
 <a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png"  height="350" width="350" ></a>
 

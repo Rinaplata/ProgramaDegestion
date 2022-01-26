@@ -1,7 +1,7 @@
 # ProgramaDegestion
 
-- Aprende lo básico de SQL realizando un mini programa de gestión para una empresa X. 
-Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que existe problema en la planificacion de los proyectos y de los empleados.
+-  Aprende lo básico de SQL realizando un mini programa de gestión para una empresa X. 
+Se va realizar una aplicación para mejorar la eficiencia laboral, debido a que existe problema en la planificación de los proyectos y de los empleados.
 
 ## Instalación  de SQL Server developer 2019 👇 
 
@@ -67,8 +67,6 @@ PRIMARY KEY(ID_EMPLEADO)
 
 ```
 
-<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/CreateTable.png"  height="350" width="350" ></a>
-
 * **INSERT INTO** se utiliza para insertar nuevos registros en una tabla.
 
 ### Ejemplo👇
@@ -83,6 +81,6 @@ select * from EMPLEADO
 
 ```
 
-<a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/INSERT%20INTO.png?raw=true"  height="300" width="1300" ></a>
+- SQL es una herramienta muy importante a la hora de construir base de datos y espero a ver contribuido un poco en su inicio de aprendizaje. ¡Muchas Gracias!
 
 

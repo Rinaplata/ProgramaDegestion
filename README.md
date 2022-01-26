@@ -73,6 +73,16 @@ PRIMARY KEY(ID_EMPLEADO)
 
 ### Ejemplo👇
 
+```
+
+INSERT INTO EMPLEADO(ID_EMPLEADO,ID_CARGO, NOMBRE, CEDULA, TELEFONO, CORREO)
+
+VALUES    (301,33,'DANIEL ALVAREZ','11224503', 444576,'LAUARA34@GMAIL.COM')
+
+select * from EMPLEADO
+
+```
+
 <a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/INSERT%20INTO.png?raw=true"  height="300" width="1300" ></a>
 
 

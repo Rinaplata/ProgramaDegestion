@@ -27,6 +27,24 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 
 ![Modelo entidad Relacion](https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/ModeloEntidadRelacion.jpg)
 
+### Lenguaje de manipulación de Datos (DML)📄.
+
+```
+* SELECT: recupera datos de la base de datos.
+* INSERT: añade nuevas filas de los datos a la base datos.
+* DELETE: elimina filas de la base de datos.
+* UPDATE: modifica datos existentes de la base de datos.
+```
+### Lenguaje de Definición de Datos (DDL)📄.
+
+```
+* CREATE TABLE: Añade una nueva tabla a la base de datos.
+* DROP TABLE:   Suprime una tabla de la base de datos.
+* ALTER TABLE:  Modifica la estructura de una tabla existente. 
+* CREATE VIEW:  Añade una nueva vista a la base de datos.
+
+```
+
 ## Creacion de las tabla con SQL.
 
 * **CREATE TABLE** Se utiliza para crear una nueva tabla en una base de datos.
@@ -40,3 +58,5 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 ### Ejemplo👇
 
 <a href="url"><img src="https://github.com/Rinaplata/ProgramaDegestion/blob/main/Imagen/INSERT%20INTO.png?raw=true"  height="300" width="1300" ></a>
+
+

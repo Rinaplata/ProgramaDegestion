@@ -81,6 +81,6 @@ select * from EMPLEADO
 
 ```
 
-- SQL es una herramienta muy importante a la hora de construir base de datos y espero a ver contribuido un poco en su inicio de aprendizaje. ¡Muchas Gracias!
+### SQL es una herramienta muy importante a la hora de construir base de datos y espero a ver contribuido un poco en su inicio de aprendizaje. ¡Muchas Gracias!
 
 

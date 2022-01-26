@@ -14,6 +14,7 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 ## Empecemos a construir la base de datos 🛠️
 ### Datos generales 
 
+```
 * **_Empleado:_** id-empleado, id-cargo, cedula, nombre, correo, teléfono.
 * **_Cargo:_**  id-cargo, nombre, descripción, salario.
 * **_Proyecto:_** id-proyecto, id-empleado, id-estadoProyecto, descripción, fechaAsignación, fechaInicio y fechaFin.
@@ -22,6 +23,7 @@ Se va realizar una aplicacion para mejorar la eficiencia laboral, debido a que e
 * **_EstadoProyecto:_** id-estadoProyecto, id-estadoActividad, nombre, descripción.
 * **_Notificación:_** id-notificacion, id-empleado, correo, mensaje.
 
+```
 
 ### Modelo Entidad Relacion 📄.
 

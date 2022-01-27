@@ -1,4 +1,4 @@
-# ProgramaDegestion
+# ProgramaDegestion con SQL basico 📢
 
 -  Aprende lo básico de SQL realizando un mini programa de gestión para una empresa X. 
 Se va realizar una aplicación para mejorar la eficiencia laboral, debido a que existe problema en la planificación de los proyectos y de los empleados.

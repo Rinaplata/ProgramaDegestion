@@ -32,7 +32,7 @@ Se va realizar una aplicación para mejorar la eficiencia laboral, debido a que 
 ### Lenguaje de manipulación de Datos (DML)📄.
 
 ```
-* SELECT: recupera datos de la base de datos.
+* SELECT: Seleccionar datos de una base de datos.
 * INSERT: añade nuevas filas de los datos a la base datos.
 * DELETE: elimina filas de la base de datos.
 * UPDATE: modifica datos existentes de la base de datos.
@@ -85,8 +85,12 @@ select * from EMPLEADO
 ### Ejemplo👇
 
 ```
-SELECT columna1, columna2, ...
-FROM nombre_tabla;
+*Existes muchas funciones que realiza el select, voy a explicar 5 de ellas basicas.
+
+SELECT * FROM EMPLEADO  // consulta todos los datos de la tabla EMPLEADO. 
+
+SELECT ID_EMPLEADO, NOMBRE  //consulta los datos de ID_EMPLEADO Y NOMBRE        
+FROM EMPLEADO
 
 ```
 

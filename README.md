@@ -87,8 +87,9 @@ select * from EMPLEADO
 
 Existes muchas funciones que realiza el select, voy a explicar 5 de ellas basicas.
 
-Consulta todos los datos de la tabla EMPLEADO. 
+
 ```
+Consulta todos los datos de la tabla EMPLEADO. 
 SELECT * FROM EMPLEADO 
 ```
 Consulta los datos de ID_EMPLEADO Y NOMBRE  

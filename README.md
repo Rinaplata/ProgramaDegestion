@@ -88,12 +88,13 @@ select * from EMPLEADO
 Existes muchas funciones que realiza el select, voy a explicar 5 de ellas basicas.
 
 Consulta todos los datos de la tabla EMPLEADO. 
-
-```SELECT * FROM EMPLEADO 
+```
+SELECT * FROM EMPLEADO 
 ```
 Consulta los datos de ID_EMPLEADO Y NOMBRE  
 
-```SELECT ID_EMPLEADO, NOMBRE        
+```
+SELECT ID_EMPLEADO, NOMBRE        
 FROM EMPLEADO
 ```
 

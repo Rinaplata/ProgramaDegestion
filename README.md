@@ -116,7 +116,7 @@ ORDER BY ID_PROYECTO DESC
 ```
 
 
-* **Nota** 
+* **Nota 📝** 
 recordemos que el  Select asterisco capturará todas las columnas de todas las tablas
 
 SQL es un lenguaje muy importante a la hora de construir base de datos y espero a ver contribuido un poco en su inicio de aprendizaje. ¡Muchas Gracias!

@@ -89,14 +89,16 @@ Existes muchas funciones que realiza el select, voy a explicar 5 de ellas basica
 
 
 ```
-Consulta todos los datos de la tabla EMPLEADO. 
 SELECT * FROM EMPLEADO 
-```
-Consulta los datos de ID_EMPLEADO Y NOMBRE  
+Consulta todos los datos de la tabla EMPLEADO. 
 
 ```
+
+```
+
 SELECT ID_EMPLEADO, NOMBRE        
 FROM EMPLEADO
+Consulta los datos de ID_EMPLEADO Y NOMBRE
 ```
 
 Consulta los datos con la cedula del empleado. Se utiliza el WHERE para filtrar los registros.  

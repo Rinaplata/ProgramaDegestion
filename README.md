@@ -85,28 +85,32 @@ select * from EMPLEADO
 ### Ejemplo👇
 
 ```
-*Existes muchas funciones que realiza el select, voy a explicar 5 de ellas basicas.
+Existes muchas funciones que realiza el select, voy a explicar 5 de ellas basicas.
 
-// consulta todos los datos de la tabla EMPLEADO. 
+*Consulta todos los datos de la tabla EMPLEADO. 
+
 SELECT * FROM EMPLEADO 
 
-// consulta los datos de ID_EMPLEADO Y NOMBRE  
+*Consulta los datos de ID_EMPLEADO Y NOMBRE  
+
 SELECT ID_EMPLEADO, NOMBRE        
 FROM EMPLEADO
 
-// Consulta los datos con la cedula del empleado. Se utiliza el WHERE para filtrar los registros.  
+*Consulta los datos con la cedula del empleado. Se utiliza el WHERE para filtrar los registros.  
+
 SELECT * FROM EMPLEADO      
 WHERE CEDULA = 73206684 
 
-// Colsulta los datos de la tabla proyecto, en orden ascedente del ID_PROYECTO.
+*Colsulta los datos de la tabla proyecto, en orden ascedente del ID_PROYECTO.
 Utilizando el ORDER BY para ordenar el conjunto de recultados en orden ascendente o descendente.
+
 SELECT * FROM PROYECTO
 ORDER BY ID_PROYECTO ASC
 
-// Colsulta los datos de la tabla proyecto, en orden descendente del ID_PROYECTO
+*Colsulta los datos de la tabla proyecto, en orden descendente del ID_PROYECTO
+
 SELECT * FROM PROYECTO
 ORDER BY ID_PROYECTO DESC
-
 
 ```
 

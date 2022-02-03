@@ -98,6 +98,14 @@ FROM EMPLEADO
 SELECT * FROM EMPLEADO      
 WHERE CEDULA = 73206684 
 
+// Colsulta los datos de la tabla proyecto, en orden ascedente del ID_PROYECTO.
+Utilizando el ORDER BY para ordenar el conjunto de recultados en orden ascendente o descendente.
+SELECT * FROM PROYECTO
+ORDER BY ID_PROYECTO ASC
+
+// Colsulta los datos de la tabla proyecto, en orden descendente del ID_PROYECTO
+SELECT * FROM PROYECTO
+ORDER BY ID_PROYECTO DESC
 
 
 ```

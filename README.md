@@ -47,9 +47,9 @@ Se va realizar una aplicación para mejorar la eficiencia laboral, debido a que 
 
 ```
 
-## Creacion de las tabla con SQL.
+## Creacion de las tabla con SQL ejemplos.
 
-* **CREATE TABLE** Se utiliza para crear una nueva tabla en una base de datos.
+* **CREATE TABLE** 
 
 ### Ejemplo👇
 ```
@@ -67,7 +67,7 @@ PRIMARY KEY(ID_EMPLEADO)
 
 ```
 
-* **INSERT INTO** se utiliza para insertar nuevos registros en una tabla.
+* **INSERT INTO** 
 
 ### Ejemplo👇
 
@@ -78,6 +78,15 @@ INSERT INTO EMPLEADO(ID_EMPLEADO,ID_CARGO, NOMBRE, CEDULA, TELEFONO, CORREO)
 VALUES    (301,33,'DANIEL ALVAREZ','11224503', 444576,'LAUARA34@GMAIL.COM')
 
 select * from EMPLEADO
+
+```
+* **SELECT**
+
+### Ejemplo👇
+
+```
+SELECT columna1, columna2, ...
+FROM nombre_tabla;
 
 ```
 
